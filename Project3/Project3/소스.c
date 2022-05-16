@@ -22,7 +22,7 @@ int main(void)
 	initData();
 
 	cursor = arrayclick; //cursor[0] .. cursor[1]
-
+	// test
 	startTime = clock();//현재 시간으 millsecond(1000분의 1초) 단위로 반환
 	while (1)
 	{
@@ -75,7 +75,7 @@ int main(void)
 				exit(0);
 			}
 		}
-		//항아리가 다 깨졋는지 확인
+		//항아리가 다 깨졋는�?확인
 		if (checkHangahri() == 0)
 		{
 			//항아리 다 깨짐....
@@ -86,7 +86,7 @@ int main(void)
 		else
 		{
 			//최소 한개 이상의 항아리가 안깨짐
-			printf("항아리가 아직 안깨졋어요!\n");
+			printf("항아리가 아직 안깨졋어�?\n");
 		}
 		prevElapsedTime = totalElapsedTime;
 
