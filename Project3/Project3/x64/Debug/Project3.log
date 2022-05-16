@@ -1,0 +1,7 @@
+﻿  random.c
+C:\Users\ssoya\Desktop\조현태\Project3\Project3\random.c(9,15): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  소스.c
+C:\Users\ssoya\Desktop\조현태\Project3\Project3\소스.c(75,9): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ssoya\Desktop\조현태\Project3\Project3\소스.c(79,20): warning C4013: 'checkHangahri'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  Project3.vcxproj -> C:\Users\ssoya\Desktop\조현태\Project3\x64\Debug\Project3.exe
