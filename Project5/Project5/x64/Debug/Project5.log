@@ -1,0 +1,12 @@
+﻿  Updown.c
+c:\users\ssoya\desktop\조현태\hyunproject\project5\project5\updown.c(10): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Click.c
+c:\users\ssoya\desktop\조현태\hyunproject\project5\project5\click.c(79): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\ssoya\desktop\조현태\hyunproject\project5\project5\click.c(83): warning C4013: 'checkHangahri'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\ssoya\desktop\조현태\hyunproject\project5\project5\click.c(99): warning C4098: 'Click_Main': 'void' 함수에서 값을 반환하고 있습니다.
+  Main.c
+c:\users\ssoya\desktop\조현태\hyunproject\project5\project5\main.c(13): warning C4013: 'Updown_Main'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\ssoya\desktop\조현태\hyunproject\project5\project5\main.c(17): warning C4013: 'Click_Main'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\ssoya\desktop\조현태\hyunproject\project5\project5\main.c(21): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  Project5.vcxproj -> C:\Users\ssoya\Desktop\조현태\hyunproject\Project5\x64\Debug\Project5.exe
